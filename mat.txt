@@ -19,3 +19,10 @@ int multiplicacao(int a, int b) {
   s = a * b;
   return s;
 }
+
+// Função divisão
+double divisao(int a, int b) {
+  double s = 0;
+  s = a / b;
+  return s;
+}
