@@ -12,3 +12,10 @@ int subtrair(int a, int b) {
   s = a - b;
   return s;
 }
+
+// Função multiplicação
+int multiplicacao(int a, int b) {
+  int s = 0;
+  s = a * b;
+  return s;
+}
